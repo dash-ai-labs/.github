@@ -11,5 +11,6 @@ We’re a small team of engineers, designers, and builders who believe AI, when 
 
 If this resonates with you, welcome.
 
-- Saksham Saini
+
+Saksham Saini<br/>
 Founder, Dash AI
